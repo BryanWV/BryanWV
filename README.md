@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔰🐧 Linux fanatic<br>🌱 I’m currently learning in .Net & C#<br>💬 Glad to help in what I can<br>🌇 MBTI ISFP<br>
+🔰🐧 Linux fanatic<br>🌱 I’m currently learning in .Net & C#<br>💬 Glad to help in what I can<br>🌇 MBTI INFJ<br>
 
 
 ## 🌐 Socials:
