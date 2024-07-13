@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔰🐧 Linux fanatic<br>🌱 I’m currently learning in .Net & C#<br>💬 Glad to help in what I can<br>🌇 MBTI INFJ<br>
+🔰🐧 Linux fanatic<br>🌱 I’m currently learning in .Net & C#<br>💬 Glad to help in what I can<br>🌇 MBTI INFJ <br>
 
 
 ## 🌐 Socials:
@@ -32,4 +32,3 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/BryanWilches) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
