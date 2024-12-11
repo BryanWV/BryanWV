@@ -31,8 +31,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BryanWV&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BryanWV&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanWV&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com?user=BryanWV&theme=dark-smoky&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&border=110AEB)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanWV&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BryanWV&limit=5&theme=dark&combine_all_yearly_contributions=true)
