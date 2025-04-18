@@ -22,11 +22,9 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-# ˙✧˖°🎓 ༘⋆｡ ˚ Useful education platforms:
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-
+# ˙✧˖° ༘⋆˚Roadmap progress ✧:
+[![roadmap.sh](https://roadmap.sh/card/tall/68017fa66057cdb1a2544a7b?variant=dark)](https://roadmap.sh)
+<br/>
 
 
 # 📊 GitHub Stats:
