@@ -23,7 +23,7 @@
 
 
 # ˙✧˖° ༘⋆˚Roadmap progress ✧:
-[![roadmap.sh](https://roadmap.sh/card/tall/68017fa66057cdb1a2544a7b?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/68017fa66057cdb1a2544a7b?variant=dark)](https://roadmap.sh)
 <br/>
 
 
